@@ -99,3 +99,22 @@ footer {
     font-size: 14px;
     color: #64748b;
 }
+/* Formation & Langues */
+
+.education ul,
+.languages ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+.education li,
+.languages li {
+  margin-bottom: 8px;
+}
+
+.section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  border-left: 4px solid #3b82f6;
+  padding-left: 10px;
+}
